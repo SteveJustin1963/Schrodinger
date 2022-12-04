@@ -15,6 +15,6 @@ list the steps to do this
 5. Test the device to ensure it is performing as expected.
 
 
-write a c program to do the above
+pseudo c code to do the above
 
 s1.c
