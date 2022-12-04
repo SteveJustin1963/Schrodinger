@@ -18,3 +18,7 @@ list the steps to do this
 pseudo c code to do the above
 
 s1.c
+
+
+## Ref
+- https://github.com/SteveJustin1963/tec-BOOKS/blob/master/QC/intro%20Quantum%20Computing%20Kaye%20Laflamme%20Mosca%202007.pdf
