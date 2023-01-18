@@ -1,16 +1,15 @@
 # Schrodinger
 
-Schrodinger equation can be used to model the behavior of electrons in a quantum computing device, allowing engineers to optimize its design and performance.
-list the steps to do this
-1. Develop a mathematical model of the quantum computing device, including the positions of electrons and other relevant factors.
-2. Use the Schrodinger equation to solve for the energy state of the system.
-3. Use the energy state to evaluate the behavior of the electrons in the device.
-4. Optimize the design of the device to achieve the desired behavior.
-5. Test the device to ensure it is performing as expected.
+simple and interesting Schrödinger equation experiemtns 
 
-pseudo c code to do the above
+Yes! One example is the Double Slit Experiment. In this experiment, a laser light is passed through two narrow slits, where it then hits a screen. The light on the screen forms an interference pattern that looks like two overlapping circles. This pattern is created because the light from the two slits interferes with each other, creating regions of constructive and destructive interference. This experiment is a great example of the wave-like nature of particles, which is explained by the Schrödinger equation.
 
-s1.c
+
+Another example of a simple experiment is the Heisenberg Uncertainty Principle. This experiment consists of measuring the position and momentum of a particle. The Heisenberg Uncertainty Principle states that it is impossible to accurately measure both the position and momentum of a particle simultaneously. This principle is an example of the probabilistic nature of quantum mechanics, which is described by the Schrödinger equation.  
+
+To conduct the Heisenberg Uncertainty Principle experiment, you will need a particle source such as a particle accelerator or radioactive source, a detector such as a Geiger counter or scintillator, and a computer for data analysis. Then, you need to measure the position of the particle using the detector. This will give you the momentum of the particle. Then you need to measure the momentum of the particle using the detector. This will give you the position of the particle. Finally, you will need to compare the two measurements and calculate the uncertainty between them. This will give you a measure of the uncertainty principle.
+
+
 
 
 ## Ref
